@@ -256,7 +256,19 @@ p {
     -ms-transform-origin: top;
     transform-origin: top;
   }
+
 }
+
+.contact-section {
+  left:80px;
+  top:150px;
+  height:100%;
+  width:90%;
+  position:absolute;
+}
+
+
+
 @-webkit-keyframes navbar-animation {
   0% {
     opacity: 0;
